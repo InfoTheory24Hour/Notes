@@ -3,7 +3,6 @@
 
 | Data       | Speaker           | Backup  |
 | ------------- |:-------------:| -----:|
-| Oct 15/16 | Luly | Chentao |
-| Oct 22/23     |   |  |
+| Oct 22/23     |   Luly | Chentao |
 | Oct 29/30 |    |   | 
 
